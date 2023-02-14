@@ -13,4 +13,4 @@ public class Ex_1151 {
         if(a>0&&a<10) System.out.println("small");
 
     }
-}
+}//

@@ -26,4 +26,4 @@ public class Ex_1067 {
             } else System.out.println("odd");
         }
     }
-}
+}//

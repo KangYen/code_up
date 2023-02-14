@@ -22,4 +22,4 @@ public class Ex_1154 {
             System.out.println(d);
         } else System.out.println("0");
     }
-}
+}//

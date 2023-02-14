@@ -17,4 +17,4 @@ public class Ex_1065 {
         if (b % 2 == 0) System.out.println(b);
         if (c % 2 == 0) System.out.println(c);
     }
-}
+}//

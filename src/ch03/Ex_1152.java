@@ -13,4 +13,4 @@ public class Ex_1152 {
         if(a<10) System.out.println("small");
         else System.out.println("big");
     }
-}
+}//
